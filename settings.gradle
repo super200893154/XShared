@@ -1,0 +1,3 @@
+rootProject.name = "XSharedModule"
+include ':app'
+include ':XShared'
